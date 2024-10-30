@@ -11,3 +11,8 @@ Ensure that you have [Node.js](https://nodejs.org/) installed.
 To install the required dependencies, run:
 ```bash
 npm install
+```
+### Start the Server
+```bash
+npm start
+```
